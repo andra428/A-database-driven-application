@@ -1,3 +1,2 @@
-# A database-driven application
+# Database Anime&Manga list
 Teammate: Cojocaru Georgiana https://github.com/LisaLisa7
-Anime & manga list
